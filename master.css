@@ -1,0 +1,51 @@
+body{background-image: url(sfondo.jpg);
+background-size: cover;}
+
+*{margin: auto;}
+
+.container{background-color: rgba(0, 0, 0, 0.3);
+width: 1000px;
+height: 600px;
+margin-top: 1%;
+border-radius:2%;}
+
+
+img{width: 20%;
+display: block;}
+
+.intestazione h1 {text-align: center;
+color: rgb(14, 212, 14);}
+
+nav{background-color:  rgb(14, 212, 14);
+width: 90%;
+text-align: center;
+padding:  7px;}
+
+main{margin-left: 4% ;}
+
+.row h3{display: inline-block;}
+
+div,.row{color: white;
+font-family: Ubuntu, sans-serif;
+margin-top: 0.8%;}
+
+.square{color: white;
+font-size: 30px;}
+
+.barra1{background-color:rgb(245, 180, 83);
+width: 30%;
+padding: 10px;
+margin-left: 0%;
+border-radius: 3px;}
+
+.barra2{background-color: rgb(14, 212, 14);
+width: 50%;
+padding: 10px;
+margin-left: 0%;
+border-radius: 3px;}
+
+.barra3{background-color: rgb(187, 68, 67);
+width: 15%;
+padding: 10px;
+margin-left: 0%;
+border-radius: 3px;}
